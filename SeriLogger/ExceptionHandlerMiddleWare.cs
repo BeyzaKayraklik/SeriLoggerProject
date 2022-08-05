@@ -21,15 +21,19 @@ namespace SeriLogSaving
 
         public async Task Invoke(HttpContext httpContext)
         {
+            //dışardan istek geldiğinde controllera düşmek yerine buradaki middleware içindeki ınvoke methoduna düşer sonra controllera gider
+            //ınvoke içinde tüm aksiyonlar yakalanmış olur.yani burada try catch oluşturulduğunda uygulama içerisindeki bütün try catchleri yakalamış olur.
             try
             {
                 await next.Invoke(httpContext);
             }
-            catch (Exception ex)
+            catch(Exception ex)
             {
+              
+                //Hata yönetimi uygulamadaki herhangi bir controllerda oluşan hata burada yakalanır
                 logger.LogError(ex.Message);
             }
-
+           
         }
     }
 }
