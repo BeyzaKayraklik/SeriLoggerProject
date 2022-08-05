@@ -1,0 +1,12 @@
+C:\Users\Beyza\source\repos\SeriLoggerProject\SeriLogger\bin\Debug\net5.0\SeriLogger.deps.json
+C:\Users\Beyza\source\repos\SeriLoggerProject\SeriLogger\bin\Debug\net5.0\SeriLogger.dll
+C:\Users\Beyza\source\repos\SeriLoggerProject\SeriLogger\bin\Debug\net5.0\ref\SeriLogger.dll
+C:\Users\Beyza\source\repos\SeriLoggerProject\SeriLogger\bin\Debug\net5.0\SeriLogger.pdb
+C:\Users\Beyza\source\repos\SeriLoggerProject\SeriLogger\obj\Debug\net5.0\SeriLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyza\source\repos\SeriLoggerProject\SeriLogger\obj\Debug\net5.0\SeriLogger.AssemblyInfoInputs.cache
+C:\Users\Beyza\source\repos\SeriLoggerProject\SeriLogger\obj\Debug\net5.0\SeriLogger.AssemblyInfo.cs
+C:\Users\Beyza\source\repos\SeriLoggerProject\SeriLogger\obj\Debug\net5.0\SeriLogger.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\source\repos\SeriLoggerProject\SeriLogger\obj\Debug\net5.0\SeriLogger.dll
+C:\Users\Beyza\source\repos\SeriLoggerProject\SeriLogger\obj\Debug\net5.0\ref\SeriLogger.dll
+C:\Users\Beyza\source\repos\SeriLoggerProject\SeriLogger\obj\Debug\net5.0\SeriLogger.pdb
+C:\Users\Beyza\source\repos\SeriLoggerProject\SeriLogger\obj\Debug\net5.0\SeriLogger.csproj.AssemblyReference.cache

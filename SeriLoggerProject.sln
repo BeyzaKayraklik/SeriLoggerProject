@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriLoggerProject", "SeriLoggerProject\SeriLoggerProject.csproj", "{E499C657-DC1C-43DA-B70C-E1C0FF6B858B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriLogger", "SeriLogger\SeriLogger.csproj", "{A962B02D-8979-413C-BC75-28EEA7BCE502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E499C657-DC1C-43DA-B70C-E1C0FF6B858B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E499C657-DC1C-43DA-B70C-E1C0FF6B858B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E499C657-DC1C-43DA-B70C-E1C0FF6B858B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E499C657-DC1C-43DA-B70C-E1C0FF6B858B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A962B02D-8979-413C-BC75-28EEA7BCE502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A962B02D-8979-413C-BC75-28EEA7BCE502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A962B02D-8979-413C-BC75-28EEA7BCE502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A962B02D-8979-413C-BC75-28EEA7BCE502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A1ECEB4-C679-41B6-B1D8-2AA93FAD6E44}
+	EndGlobalSection
+EndGlobal
